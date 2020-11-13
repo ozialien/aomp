@@ -28,7 +28,7 @@ aomp/aomp-extras \
 aomp/flang \
 aomp/amd-llvm-project \
 aomp/vdi \
-aomp/opencl-on-vdi
+aomp/opencl-on-vdi \
 llvm-project
 ```
 ```
